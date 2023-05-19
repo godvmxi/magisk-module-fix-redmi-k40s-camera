@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=FixRedmiK40sCamera
+name=Fix Redmi K40s Camera Reservse and mirror issue
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Ball Vritual
+description=First module, just try to fix camera error
